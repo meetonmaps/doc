@@ -1,0 +1,36 @@
+input: .
+output: .retype
+url: doc.meetonmaps.com
+branding:
+  title: Meetonmaps
+  logo: /static/meetonmaps_logo_128.png
+  logoDark: /static/meetonmaps_logo_128.png
+  label: Docs
+edit:
+  repo: github.com/meetonmaps/doc
+links:
+  - text: Home
+    link: /README.md
+    icon: home
+
+  - text: Issues
+    link: https://github.com/meetonmaps/docs/issues
+    icon: issue-opened
+    target: blank
+
+  - text: Discussions
+    link: https://github.com/meetonmaps/docs/discussions
+    icon: comment-discussion
+    target: blank
+
+  - text: GitHub
+    link: https://github.com/meetonmaps/docs
+    icon: mark-github
+    target: blank
+    
+  - text: Telegram
+    link: https://t.me/meetonmaps
+    target: blank
+
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."

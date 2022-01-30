@@ -1,2 +1,6 @@
-# doc
-Documentation of meetonmaps
+---
+label: Welcome
+icon: home
+---
+
+# meetonmaps documentation
